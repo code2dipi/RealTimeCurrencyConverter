@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f883cad4-6193-4140-bfee-51613232b833": {
+      "ProjectGuid": "f883cad4-6193-4140-bfee-51613232b833",
+      "DisplayName": "ConsoleCurrencyConverter",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ac27d426-0f21-43bc-bd81-1be0c4f01a55": {
+      "ProjectGuid": "ac27d426-0f21-43bc-bd81-1be0c4f01a55",
+      "DisplayName": "ConverterService",
+      "ColorIndex": 1
+    },
+    "0fa0adf7-bcf0-4c64-b207-f413600ac41b": {
+      "ProjectGuid": "0fa0adf7-bcf0-4c64-b207-f413600ac41b",
+      "DisplayName": "ConverterService",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

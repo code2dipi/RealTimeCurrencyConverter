@@ -1,0 +1,30 @@
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\bin\Debug\net6.0\ConverterService.deps.json
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\bin\Debug\net6.0\ConverterService.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\bin\Debug\net6.0\ref\ConverterService.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\bin\Debug\net6.0\ConverterService.pdb
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.csproj.AssemblyReference.cache
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.AssemblyInfoInputs.cache
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.AssemblyInfo.cs
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.csproj.CoreCompileInputs.cache
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ref\ConverterService.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.pdb
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\bin\Debug\net6.0\ConverterEntityFramework.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\bin\Debug\net6.0\ConverterEntityFramework.pdb
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.csproj.CopyComplete
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\bin\Debug\net6.0\ConverterService.deps.json
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\bin\Debug\net6.0\ConverterService.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\bin\Debug\net6.0\ConverterService.pdb
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\bin\Debug\net6.0\ConverterEntityFramework.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\bin\Debug\net6.0\ConverterEntityFramework.pdb
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.csproj.AssemblyReference.cache
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.AssemblyInfoInputs.cache
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.AssemblyInfo.cs
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.csproj.CoreCompileInputs.cache
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.csproj.CopyComplete
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\refint\ConverterService.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ConverterService.pdb
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterService\obj\Debug\net6.0\ref\ConverterService.dll

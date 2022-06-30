@@ -1,0 +1,28 @@
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterEntityFramework\bin\Debug\net6.0\ConverterEntityFramework.deps.json
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterEntityFramework\bin\Debug\net6.0\ConverterEntityFramework.runtimeconfig.json
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterEntityFramework\bin\Debug\net6.0\ConverterEntityFramework.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterEntityFramework\bin\Debug\net6.0\ref\ConverterEntityFramework.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterEntityFramework\bin\Debug\net6.0\ConverterEntityFramework.pdb
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.csproj.AssemblyReference.cache
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.AssemblyInfoInputs.cache
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.AssemblyInfo.cs
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.csproj.CoreCompileInputs.cache
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ref\ConverterEntityFramework.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.pdb
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.genruntimeconfig.cache
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterEntityFramework\bin\Debug\net6.0\ConverterEntityFramework.deps.json
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterEntityFramework\bin\Debug\net6.0\ConverterEntityFramework.runtimeconfig.json
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterEntityFramework\bin\Debug\net6.0\ConverterEntityFramework.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterEntityFramework\bin\Debug\net6.0\ConverterEntityFramework.pdb
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.csproj.AssemblyReference.cache
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.AssemblyInfoInputs.cache
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.AssemblyInfo.cs
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\refint\ConverterEntityFramework.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.pdb
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ConverterEntityFramework.genruntimeconfig.cache
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConverterEntityFramework\obj\Debug\net6.0\ref\ConverterEntityFramework.dll

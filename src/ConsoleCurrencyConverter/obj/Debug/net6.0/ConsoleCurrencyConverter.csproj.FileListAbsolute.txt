@@ -1,0 +1,137 @@
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.exe
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.deps.json
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.runtimeconfig.json
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\bin\Debug\net6.0\ref\ConsoleCurrencyConverter.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.pdb
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.csproj.AssemblyReference.cache
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.AssemblyInfoInputs.cache
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.AssemblyInfo.cs
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\obj\Debug\net6.0\ref\ConsoleCurrencyConverter.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.pdb
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.genruntimeconfig.cache
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.exe
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.deps.json
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.runtimeconfig.json
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ref\ConsoleCurrencyConverter.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.pdb
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConverterService.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConverterService.pdb
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.csproj.AssemblyReference.cache
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.AssemblyInfoInputs.cache
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.AssemblyInfo.cs
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.csproj.CopyComplete
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ref\ConsoleCurrencyConverter.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.pdb
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.genruntimeconfig.cache
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConverterEntityFramework.dll
+C:\Projects\currencyconverter\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConverterEntityFramework.pdb
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.exe
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.deps.json
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.runtimeconfig.json
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConsoleCurrencyConverter.pdb
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConverterEntityFramework.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConverterService.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConverterService.pdb
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\bin\Debug\net6.0\ConverterEntityFramework.pdb
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.AssemblyInfo.cs
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.csproj.CopyComplete
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\refint\ConsoleCurrencyConverter.dll
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.pdb
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ConsoleCurrencyConverter.genruntimeconfig.cache
+C:\Users\dhanp\OneDrive\Desktop\ConsoleCurrencyConverter (1)\ConsoleCurrencyConverter\src\ConsoleCurrencyConverter\obj\Debug\net6.0\ref\ConsoleCurrencyConverter.dll

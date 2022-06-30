@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\CurrencyConverterWebApi\\CurrencyConverterWebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\ConverterEntityFramework\\ConverterEntityFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\ConverterEntityFramework\\ConverterEntityFramework.csproj",
+        "projectName": "ConverterEntityFramework",
+        "projectPath": "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\ConverterEntityFramework\\ConverterEntityFramework.csproj",
+        "packagesPath": "C:\\Users\\dhanp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\ConverterEntityFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dhanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\ConverterService\\ConverterService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\ConverterService\\ConverterService.csproj",
+        "projectName": "ConverterService",
+        "projectPath": "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\ConverterService\\ConverterService.csproj",
+        "packagesPath": "C:\\Users\\dhanp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\ConverterService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dhanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\ConverterEntityFramework\\ConverterEntityFramework.csproj": {
+                "projectPath": "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\ConverterEntityFramework\\ConverterEntityFramework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\CurrencyConverterWebApi\\CurrencyConverterWebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\CurrencyConverterWebApi\\CurrencyConverterWebApi.csproj",
+        "projectName": "CurrencyConverterWebApi",
+        "projectPath": "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\CurrencyConverterWebApi\\CurrencyConverterWebApi.csproj",
+        "packagesPath": "C:\\Users\\dhanp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\CurrencyConverterWebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dhanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\ConverterService\\ConverterService.csproj": {
+                "projectPath": "C:\\Users\\dhanp\\OneDrive\\Desktop\\ConsoleCurrencyConverter (1)\\ConsoleCurrencyConverter\\src\\ConverterService\\ConverterService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
